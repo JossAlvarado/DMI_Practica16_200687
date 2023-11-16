@@ -11,7 +11,6 @@
 
 ## Capturas de Pantalla de la Actividad
 
-<<<<<<< HEAD
-  <img src="./img/1.png" width="200" alt="Captura de Pantalla 1">
-  <img src="./img/2.png" width="200" alt="Captura de Pantalla 2">
-  <img src="./img/3.png" width="200" alt="Captura de Pantalla 3">
+  <img src="./img/1.png" width="400" alt="Captura de Pantalla 1">
+  <img src="./img/2.png" width="400" alt="Captura de Pantalla 2">
+  <img src="./img/3.png" width="400" alt="Captura de Pantalla 3">
